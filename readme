@@ -1,0 +1,13 @@
+"Padrão MVC"
+
+-> MODEL: é responsável pela leitura e escrita de dados.
+
+-> VIEW: a camada de intereção com o usuário. Ela apena faz a exibição dos dados.
+
+-> CONTROLLER: o responsavel por receber todas as requisições do usuário. Controlando qual model usar e qual view será mostrado ao usuário.
+
+--------------
+
+"DOCKER"
+
+-> O docker é uma tecnologia que nos permite criar containers dentro do computador.
